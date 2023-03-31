@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{ card["cardName"] }}</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename= 'main.css')}}">
+
+</head>
+<body>
+
+<div id="container">
+
+    <h1>{{ card["cardName"] }}</h1>
+    <!--<img class="right" src="{{ url_for('static', filename= 'main.css')}}">-->
+
+    <p>This card, {{ card["cardName"] }}, is  
+        
+        <!-- use a/an correctly based on type-->
+
+        {% set card_type = card["type"] %}
+        {% set card_type_chars = [] %}
+        
+        {% for char in card_type %}
+            {% set _ = card_type_chars.append(char) %}
+        {% endfor %}
+        
+        {% if card_type_chars[0] == 'A' %}
+            an
+        {% else %}
+            a
+        {% endif %}
+
+        {{ card["type"] }} that costs {{ card["manaCost"] }}. It has {{ card["power"] }} power and {{ card["toughness"] }} toughness, and is {{ card["rarity"] }}.</p>
+
+    <p><a href="https://mtgjson.com/">View source</a></p>
+
+    <p><a href="{{ url_for('index') }}">Return to the list</a> to see a different card.</p>
+
+</div>
+
+</body>
+</html>

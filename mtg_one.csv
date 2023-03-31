@@ -1,0 +1,139 @@
+id,cardName,manaCost,type,power,toughness,rarity,setCode
+1,Adaptive Sporesinger,{2}{G},Creature : Phyrexian Druid,2,2,common,ONE
+2,Ambulatory Edifice,{2}{B},Artifact Creature : Phyrexian Construct,3,2,uncommon,ONE
+3,Annex Sentry,{2}{W},Artifact Creature : Phyrexian Cleric,1,4,uncommon,ONE
+4,Apostle of Invasion,{4}{W}{W},Creature : Phyrexian Angel,4,4,uncommon,ONE
+5,Archfiend of the Dross,{2}{B}{B},Creature : Phyrexian Demon,6,6,rare,ONE
+6,Argentum Masticore,{5},Artifact Creature : Phyrexian Masticore,5,5,rare,ONE
+7,Armored Scrapgorger,{1}{G},Creature : Phyrexian Beast,0,3,uncommon,ONE
+8,Atmosphere Surgeon,{1}{U},Creature : Phyrexian Wizard,2,1,uncommon,ONE
+9,"Atraxa, Grand Unifier",{3}{G}{W}{U}{B},Legendary Creature : Phyrexian Angel,7,7,mythic,ONE
+10,Atraxa's Skitterfang,{3},Artifact Creature : Phyrexian Insect,2,2,uncommon,ONE
+11,Axiom Engraver,{1}{R},Creature : Phyrexian Wizard,1,3,common,ONE
+12,Basilica Shepherd,{3}{W}{W},Creature : Phyrexian Angel,3,3,common,ONE
+13,Bilious Skulldweller,{B},Creature : Phyrexian Insect,1,1,uncommon,ONE
+14,Bladed Ambassador,{1}{W},Creature : Phyrexian Soldier,3,1,uncommon,ONE
+15,Bladegraft Aspirant,{2}{R},Creature : Phyrexian Warrior,2,3,common,ONE
+16,Blightbelly Rat,{1}{B},Creature : Phyrexian Rat,2,2,common,ONE
+17,Bloated Contaminator,{2}{G},Creature : Phyrexian Beast,4,4,rare,ONE
+18,Bonepicker Skirge,{2}{B},Creature : Phyrexian Imp,2,2,common,ONE
+19,Branchblight Stalker,{1}{G},Creature : Phyrexian Elf Scout,3,1,common,ONE
+20,Cacophony Scamp,{R},Creature : Phyrexian Goblin Warrior,1,1,uncommon,ONE
+21,Cankerbloom,{1}{G},Creature : Phyrexian Fungus,3,2,uncommon,ONE
+22,Capricious Hellraiser,{3}{R}{R}{R},Creature : Phyrexian Dragon,4,4,mythic,ONE
+23,Cephalopod Sentry,{2}{W}{U},Artifact Creature : Phyrexian Squid,X,5,uncommon,ONE
+24,Charforger,{1}{B}{R},Creature : Phyrexian Beast,2,3,uncommon,ONE
+25,Chimney Rabble,{3}{R},Creature : Phyrexian Goblin Warrior,3,3,common,ONE
+26,Chittering Skitterling,{2}{B},Creature : Phyrexian Rat,1,4,uncommon,ONE
+27,Chrome Prowler,{2}{U},Artifact Creature : Phyrexian Cat,3,2,common,ONE
+28,Cinderslash Ravager,{4}{R}{G},Creature : Phyrexian Warrior,5,5,uncommon,ONE
+29,Contagious Vorrac,{2}{G},Creature : Phyrexian Boar Beast,3,3,common,ONE
+30,Copper Longlegs,{1}{G},Creature : Phyrexian Spider,1,3,common,ONE
+31,Crawling Chorus,{W},Creature : Phyrexian Horror,1,1,common,ONE
+32,Cruel Grimnarch,{5}{B},Creature : Phyrexian Cleric,5,5,common,ONE
+33,Cutthroat Centurion,{2}{B},Artifact Creature : Phyrexian Warrior,2,2,common,ONE
+34,"Drivnod, Carnage Dominus",{3}{B}{B},Legendary Creature : Phyrexian Horror,8,3,mythic,ONE
+35,Duelist of Deep Faith,{1}{W},Creature : Phyrexian Soldier,2,2,common,ONE
+36,Dune Mover,{2},Artifact Creature : Phyrexian Golem,2,1,common,ONE
+37,"Elesh Norn, Mother of Machines",{4}{W},Legendary Creature : Phyrexian Praetor,4,7,mythic,ONE
+38,Escaped Experiment,{1}{U},Artifact Creature : Phyrexian Beast,2,1,common,ONE
+39,Evolved Spinoderm,{2}{G}{G},Creature : Phyrexian Beast,5,5,rare,ONE
+40,Evolving Adaptive,{G},Creature : Phyrexian Warrior,0,0,uncommon,ONE
+41,Exuberant Fuseling,{R},Creature : Phyrexian Goblin Warrior,0,1,uncommon,ONE
+42,"Ezuri, Stalker of Spheres",{2}{G}{U},Legendary Creature : Phyrexian Elf Warrior,3,3,rare,ONE
+43,Flensing Raptor,{2}{W},Creature : Phyrexian Bird,2,2,common,ONE
+44,Fleshless Gladiator,{1}{B},Creature : Phyrexian Skeleton,2,2,common,ONE
+45,Forgehammer Centurion,{2}{R},Creature : Phyrexian Warrior,3,2,common,ONE
+46,Furnace Punisher,{2}{R},Creature : Phyrexian Warrior,3,3,uncommon,ONE
+47,Furnace Strider,{4}{R},Creature : Phyrexian Beast,4,5,common,ONE
+48,"Geth, Thane of Contracts",{1}{B}{B},Legendary Creature : Phyrexian Zombie,3,4,rare,ONE
+49,Gitaxian Anatomist,{3}{U},Creature : Phyrexian Wizard,2,5,common,ONE
+50,Gitaxian Raptor,{2}{U},Creature : Phyrexian Bird,1,4,common,ONE
+51,Glissa Sunslayer,{1}{B}{G},Legendary Creature : Phyrexian Zombie Elf,3,3,rare,ONE
+52,Glistener Seer,{U},Creature : Phyrexian Advisor,0,3,common,ONE
+53,"Graaz, Unstoppable Juggernaut",{8},Legendary Artifact Creature : Juggernaut,7,5,rare,ONE
+54,Gulping Scraptrap,{4}{B},Creature : Phyrexian Horror,4,4,common,ONE
+55,Ichor Synthesizer,{1}{U},Creature : Phyrexian Wizard,1,3,common,ONE
+56,Ichorplate Golem,{3},Artifact Creature : Phyrexian Golem,2,3,uncommon,ONE
+57,Ichorspit Basilisk,{2}{G},Creature : Phyrexian Basilisk,1,3,common,ONE
+58,Incisor Glider,{1}{W},Artifact Creature : Phyrexian Construct,1,3,common,ONE
+59,Indoctrination Attendant,{3}{W},Creature : Phyrexian Cleric,3,4,common,ONE
+60,Jawbone Duelist,{1}{W},Creature : Phyrexian Soldier,1,1,uncommon,ONE
+61,"Jor Kadeen, First Goldwarden",{R}{W},Legendary Creature : Human Rebel,2,2,rare,ONE
+62,"Karumonix, the Rat King",{1}{B}{B},Legendary Creature : Phyrexian Rat,3,3,rare,ONE
+63,"Kemba, Kha Enduring",{1}{W},Legendary Creature : Cat Cleric,2,2,rare,ONE
+64,"Kethek, Crucible Goliath",{2}{B}{R},Legendary Creature : Phyrexian Beast,4,4,rare,ONE
+65,Kinzu of the Bleak Coven,{4}{B},Legendary Creature : Phyrexian Vampire,5,4,rare,ONE
+66,Kuldotha Cackler,{2}{R},Creature : Phyrexian Hyena,2,3,common,ONE
+67,Lattice-Blade Mantis,{3}{G},Creature : Phyrexian Insect,4,3,common,ONE
+68,Leonin Lightbringer,{2}{W},Creature : Cat Rebel,3,2,common,ONE
+69,Magmatic Sprinter,{2}{R},Creature : Phyrexian Warrior,3,2,uncommon,ONE
+70,"Malcator, Purity Overseer",{1}{W}{U},Legendary Creature : Phyrexian Elephant Wizard,1,1,rare,ONE
+71,Malcator's Watcher,{1}{U},Artifact Creature : Phyrexian Drone,1,1,common,ONE
+72,Mandible Justiciar,{1}{W},Artifact Creature : Phyrexian Cleric,2,1,common,ONE
+73,Meldweb Curator,{3}{U},Creature : Phyrexian Wizard,3,4,common,ONE
+74,"Melira, the Living Cure",{G}{W},Legendary Creature : Human Scout,3,3,rare,ONE
+75,Mercurial Spelldancer,{1}{U},Creature : Phyrexian Rogue,2,1,rare,ONE
+76,"Migloz, Maze Crusher",{1}{R}{G},Legendary Creature : Phyrexian Beast,4,4,rare,ONE
+77,Mite Overseer,{3}{W},Creature : Phyrexian Soldier,4,2,rare,ONE
+78,"Mondrak, Glory Dominus",{2}{W}{W},Legendary Creature : Phyrexian Horror,4,4,mythic,ONE
+79,Myr Convert,{2},Artifact Creature : Phyrexian Myr,2,1,uncommon,ONE
+80,Myr Custodian,{3},Artifact Creature : Myr,2,3,common,ONE
+81,Myr Kinsmith,{4},Artifact Creature : Myr,3,1,common,ONE
+82,Necrogen Rotpriest,{2}{B}{G},Creature : Phyrexian Zombie Cleric,1,5,uncommon,ONE
+83,Necrosquito,{3}{B},Creature : Phyrexian Insect,0,0,uncommon,ONE
+84,Nimraiser Paladin,{4}{B},Creature : Phyrexian Knight,4,4,uncommon,ONE
+85,Oil-Gorger Troll,{3}{G}{G},Creature : Phyrexian Troll Warrior,3,4,common,ONE
+86,Orthodoxy Enforcer,{3}{W},Creature : Phyrexian Cleric,2,4,common,ONE
+87,"Ovika, Enigma Goliath",{5}{U}{R},Legendary Creature : Phyrexian Nightmare,6,6,rare,ONE
+88,Oxidda Finisher,{5}{R}{R},Creature : Ogre Rebel,7,5,uncommon,ONE
+89,Paladin of Predation,{5}{G}{G},Creature : Phyrexian Knight,6,7,uncommon,ONE
+90,Pestilent Syphoner,{1}{B},Creature : Phyrexian Insect,1,1,common,ONE
+91,Phyrexian Obliterator,{B}{B}{B}{B},Creature : Phyrexian Horror,5,5,mythic,ONE
+92,Phyrexian Vindicator,{W}{W}{W}{W},Creature : Phyrexian Horror,5,5,mythic,ONE
+93,Plague Nurse,{3}{G},Creature : Phyrexian Cleric,3,4,common,ONE
+94,Porcelain Zealot,{3}{W},Creature : Phyrexian Soldier,2,3,uncommon,ONE
+95,Predation Steward,{1}{G},Creature : Phyrexian Elf Warrior,2,2,common,ONE
+96,Quicksilver Fisher,{3}{U}{U},Creature : Phyrexian Drake,4,3,common,ONE
+97,Ravenous Necrotitan,{2}{B}{B},Creature : Phyrexian Horror,6,6,uncommon,ONE
+98,Resistance Skywarden,{3}{R}{R},Creature : Ogre Rebel,5,5,uncommon,ONE
+99,"Rhuk, Hexgold Nabber",{2}{R},Legendary Creature : Goblin Rebel,2,2,rare,ONE
+100,"Ria Ivor, Bane of Bladehold",{2}{W}{B},Legendary Creature : Phyrexian Knight,3,4,rare,ONE
+101,Rustvine Cultivator,{G},Creature : Phyrexian Elf Druid,1,2,common,ONE
+102,Sawblade Scamp,{R},Creature : Phyrexian Beast,1,1,common,ONE
+103,Scheming Aspirant,{1}{B},Creature : Phyrexian Advisor,1,3,uncommon,ONE
+104,Serum Sovereign,{4}{U},Creature : Phyrexian Sphinx,4,4,rare,ONE
+105,Serum-Core Chimera,{2}{U}{R},Creature : Phyrexian Chimera,2,4,uncommon,ONE
+106,Sheoldred's Headcleaver,{3}{B},Creature : Phyrexian Warrior,2,4,common,ONE
+107,Shrapnel Slinger,{1}{R},Artifact Creature : Phyrexian Beast,2,2,common,ONE
+108,Sinew Dancer,{W},Creature : Phyrexian Soldier,1,1,common,ONE
+109,"Skrelv, Defector Mite",{W},Legendary Artifact Creature : Phyrexian Mite,1,1,rare,ONE
+110,Skyscythe Engulfer,{5}{G},Creature : Phyrexian Beast,6,5,common,ONE
+111,Slaughter Singer,{G}{W},Creature : Phyrexian Cleric,2,2,uncommon,ONE
+112,"Slobad, Iron Goblin",{2}{R},Legendary Creature : Phyrexian Goblin Artificer,3,3,rare,ONE
+113,"Solphim, Mayhem Dominus",{2}{R}{R},Legendary Creature : Phyrexian Horror,5,4,mythic,ONE
+114,Soulless Jailer,{2},Artifact Creature : Phyrexian Golem,0,4,rare,ONE
+115,Stinging Hivemaster,{2}{B},Creature : Phyrexian Warlock,3,2,common,ONE
+116,Swooping Lookout,{W},Artifact Creature : Phyrexian Construct,1,2,uncommon,ONE
+117,Tainted Observer,{1}{G}{U},Creature : Phyrexian Bird,2,3,uncommon,ONE
+118,"Tekuthal, Inquiry Dominus",{2}{U}{U},Legendary Creature : Phyrexian Horror,3,5,mythic,ONE
+119,Testament Bearer,{3}{B},Creature : Phyrexian Warrior,4,1,common,ONE
+120,Thrummingbird,{1}{U},Creature : Phyrexian Bird Horror,1,1,uncommon,ONE
+121,"Thrun, Breaker of Silence",{3}{G}{G},Legendary Creature : Troll Shaman,5,5,rare,ONE
+122,Transplant Theorist,{3}{U},Artifact Creature : Phyrexian Artificer,2,4,uncommon,ONE
+123,Trawler Drake,{2}{U},Creature : Phyrexian Drake,0,0,uncommon,ONE
+124,Tyrranax Atrocity,{3}{G}{G},Creature : Phyrexian Dinosaur,4,4,common,ONE
+125,Tyrranax Rex,{4}{G}{G}{G},Creature : Phyrexian Dinosaur,8,8,mythic,ONE
+126,"Unctus, Grand Metatect",{1}{U}{U},Legendary Artifact Creature : Phyrexian Vedalken,2,4,rare,ONE
+127,Unctus's Retrofitter,{2}{U},Creature : Phyrexian Artificer,2,3,uncommon,ONE
+128,Urabrask's Anointer,{3}{R},Artifact Creature : Phyrexian Wizard,4,2,uncommon,ONE
+129,Venerated Rotpriest,{G},Creature : Phyrexian Druid,1,2,rare,ONE
+130,Venomous Brutalizer,{2}{G}{G},Creature : Phyrexian Knight,4,4,uncommon,ONE
+131,"Venser, Corpse Puppet",{U}{B},Legendary Creature : Phyrexian Zombie Wizard,1,3,rare,ONE
+132,Vindictive Flamestoker,{R},Creature : Phyrexian Wizard,1,2,rare,ONE
+133,Vivisection Evangelist,{3}{W}{B},Creature : Phyrexian Cleric,4,4,uncommon,ONE
+134,Voidwing Hybrid,{U}{B},Creature : Phyrexian Bat,2,1,uncommon,ONE
+135,"Vraan, Executioner Thane",{1}{B},Legendary Creature : Phyrexian Vampire,2,2,rare,ONE
+136,Watchful Blisterzoa,{4}{U}{U},Creature : Phyrexian Jellyfish,4,4,uncommon,ONE
+137,Zenith Chronicler,{2},Artifact Creature : Phyrexian Construct,3,1,rare,ONE
+138,"Zopandrel, Hunger Dominus",{5}{G}{G},Legendary Creature : Phyrexian Horror,4,6,mythic,ONE
